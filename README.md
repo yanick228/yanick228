@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yanick</h1>
-<h3 align="center">Développeur d'application</h3>
+<h3 align="center">Développeur d'application Web et Mobile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanick228&label=Profile%20views&color=0e75b6&style=flat" alt="yanick228" /> </p>
 
