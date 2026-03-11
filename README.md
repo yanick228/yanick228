@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionné de développement web , Mobile et d'architecture logicielle, je travaille principalement avec Laravel , Vue.js , ReactJs, Bootstrap , Tailwind.css , MySQL , Supabase pour créer des applications performantes et intuitives.
+🚀 Passionné par le développement web et mobile ainsi que par l’architecture logicielle, je conçois et développe des applications modernes, performantes et intuitives. Je travaille principalement avec Laravel, Vue.js, React, Bootstrap, Tailwind CSS, MySQL et Supabase afin de créer des solutions digitales robustes, évolutives et centrées sur l’expérience utilisateur.
 
 
 ## 🌐 Socials:
